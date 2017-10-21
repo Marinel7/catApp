@@ -1,0 +1,16 @@
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\catApp.dll
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\catApp.pdb
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Core.pdb
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.MainPage.xaml.g.cs
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.App.xaml.g.cs
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.dll
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.pdb
