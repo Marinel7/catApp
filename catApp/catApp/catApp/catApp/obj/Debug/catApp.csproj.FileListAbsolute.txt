@@ -14,3 +14,4 @@ D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\D
 D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.App.xaml.g.cs
 D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.dll
 D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.pdb
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\obj\Debug\catApp.Pages.GreetPage.xaml.g.cs

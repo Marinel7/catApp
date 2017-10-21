@@ -1,0 +1,2 @@
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp.UWP\catApp.UWP.csproj;x86
+D:\OneDrive\Projects\Visual Studio 2017\catApp\catApp\catApp\catApp\catApp\catApp.csproj;neutral

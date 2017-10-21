@@ -13,7 +13,7 @@ namespace catApp
         {
             InitializeComponent();
 
-            MainPage = new catApp.MainPage();
+            MainPage = new catApp.Pages.GreetPage();
         }
 
         protected override void OnStart()
